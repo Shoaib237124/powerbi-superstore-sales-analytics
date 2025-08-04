@@ -48,5 +48,4 @@ This Power BI dashboard provides a comprehensive analysis of Supermarket Sales d
 - 🔮 **Forecast Trend**: Upcoming 15-day trend helps anticipate sales fluctuations and plan inventory
 
 ---
-## 📂 Project Structure
 
